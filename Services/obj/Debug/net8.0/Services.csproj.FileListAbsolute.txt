@@ -1,0 +1,15 @@
+F:\Repositorio\ExamenParcial\Services\bin\Debug\net8.0\Services.deps.json
+F:\Repositorio\ExamenParcial\Services\bin\Debug\net8.0\Services.dll
+F:\Repositorio\ExamenParcial\Services\bin\Debug\net8.0\Services.pdb
+F:\Repositorio\ExamenParcial\Services\bin\Debug\net8.0\Repository.dll
+F:\Repositorio\ExamenParcial\Services\bin\Debug\net8.0\Repository.pdb
+F:\Repositorio\ExamenParcial\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+F:\Repositorio\ExamenParcial\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repositorio\ExamenParcial\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+F:\Repositorio\ExamenParcial\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+F:\Repositorio\ExamenParcial\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+F:\Repositorio\ExamenParcial\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+F:\Repositorio\ExamenParcial\Services\obj\Debug\net8.0\Services.dll
+F:\Repositorio\ExamenParcial\Services\obj\Debug\net8.0\refint\Services.dll
+F:\Repositorio\ExamenParcial\Services\obj\Debug\net8.0\Services.pdb
+F:\Repositorio\ExamenParcial\Services\obj\Debug\net8.0\ref\Services.dll

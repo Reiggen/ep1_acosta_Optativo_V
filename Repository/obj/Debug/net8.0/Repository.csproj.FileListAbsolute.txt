@@ -1,0 +1,12 @@
+F:\Repositorio\ExamenParcial\Repository\bin\Debug\net8.0\Repository.deps.json
+F:\Repositorio\ExamenParcial\Repository\bin\Debug\net8.0\Repository.dll
+F:\Repositorio\ExamenParcial\Repository\bin\Debug\net8.0\Repository.pdb
+F:\Repositorio\ExamenParcial\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+F:\Repositorio\ExamenParcial\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repositorio\ExamenParcial\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+F:\Repositorio\ExamenParcial\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+F:\Repositorio\ExamenParcial\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+F:\Repositorio\ExamenParcial\Repository\obj\Debug\net8.0\Repository.dll
+F:\Repositorio\ExamenParcial\Repository\obj\Debug\net8.0\refint\Repository.dll
+F:\Repositorio\ExamenParcial\Repository\obj\Debug\net8.0\Repository.pdb
+F:\Repositorio\ExamenParcial\Repository\obj\Debug\net8.0\ref\Repository.dll
